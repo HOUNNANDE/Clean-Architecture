@@ -1,0 +1,33 @@
+Grouped all repositories ; 
+  -> Commit
+  -> Rallback 
+
+
+
+
+  Person => AddPerson  {nom, prenom, country} ; Commit 
+  Country => Check if country exist ; if not create country => Commit echeck 
+
+
+  UnitOfWork{ like atomic operation ; indivisble 
+
+	 => Create Country if not exist 
+	 => Add Person
+  }
+  UniofWork.Commit 
+
+   if not UniofWork.rollback 
+
+
+
+
+  ==> DbContext {
+  
+  }  ==> Repositories {
+		
+		} ==> UnitOfWork {
+		
+			} ==> Business Logic{
+			
+			    } ==> User Interface ; API; Controler 
+

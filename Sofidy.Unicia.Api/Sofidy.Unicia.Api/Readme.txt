@@ -1,0 +1,10 @@
+﻿Api layer contains:
+
+Controllers
+Views
+View Models
+Middlewares
+Filters/Attributes
+Web/API Utilities
+
+

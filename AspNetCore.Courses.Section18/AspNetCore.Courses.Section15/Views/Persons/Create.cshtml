@@ -1,0 +1,126 @@
+﻿@model PersonRequestDTO
+<div> 
+	<a href="~/persons/index" class="link-hover:link"> Back to Persons List </a>
+	<h2> Create Person </h2>
+</div>
+
+
+	<div class="w-50">
+		<form  asp-controller="Persons" asp-action="Create" , method="post">
+
+			<div class="flex-vh">
+
+			<div class="flex">
+				<div class="w-25">
+					<label asp-for="PersonName" class="form-label">  Person Name </label>
+				</div>
+
+				<div class="flex-1">
+					<input asp-for="PersonName" class="form-input " />
+				</div>
+			</div>
+
+			<div class="flex">
+				<div class="w-25">
+					<label asp-for="Email" class="form-label">  Email  </label>
+				</div>
+
+				<div class="flex-1">
+					<input type="Email" asp-for="Email" class="form-input" />
+				</div>
+			</div>
+
+
+			<div class="flex">
+				<div class="w-25">
+					<label for="DateOfBirth" class="form-label">  Date of Birth  </label>
+				</div>
+
+				<div class="flex-1">
+					<input type="date" id="DateOfBirth" name="DateOfBirth" class="form-input" />
+				</div>
+			</div>
+
+
+			<div class="flex">
+
+				<div class="w-25">
+					<label class="form-label"> Gender </label>
+				</div>
+
+				<div id="Gender" name="Gender" class="GenderOptions">
+
+					<div class="floatBlock">
+						<label for="Male"> Male  </label>
+						<input id="Male" name="Gender" type="radio" value="Male" />
+					</div>
+
+					<div class="floatBlock">
+						<label for="Female"> Female  </label>
+						<input id="Female" name="Gender" type="radio" value="Female" />
+					</div>
+
+					<div class="floatBlock">
+						<label for="Other"> Other  </label>
+						<input id="Other" name="Gender" type="radio" value="Other" />
+					</div>
+
+				</div>
+			</div>
+
+			<div class="flex">
+				<div class="w-25">
+					<label for="CountryName" class="form-label"> Country Name </label>
+				</div>
+
+				<div class="flex-1">
+
+					<select class="form-input" name="CountryName">
+						<option value="">Please Select Country</option>
+
+						@{
+							foreach (CountryResponseDTO country in ViewBag.Countries)
+							{
+								<option value="@country.CountryName"> @country.CountryName </option>
+							}
+						}
+
+					</select>
+				</div>
+			</div>
+
+			<div class="flex">
+				<div class="w-25">
+					<label for="Address" class="form-label">  Address </label>
+				</div>
+
+				<div class="flex-1">
+					<textarea id="Address" name="Address" class="form-input"> </textarea>
+				</div>
+			</div>
+
+
+			<div class="flex">
+
+				<div class="flex-1">
+					<input type="checkbox" id="ReceiveNewLetters" value="true" name="ReceiveNewLetters" class="form-input" />
+				</div>
+
+				<div class="w-25">
+					<label for="ReceiveNewLetters">  Receive New Letters</label>
+				</div>
+			</div>
+
+			<div class="flex">
+				<div class="w-25">
+				</div>
+				<div class="w-30">
+					<button class="button" type="submit"> Create </button>
+				</div>
+			</div>
+			</div>
+
+
+		</form>
+	</div>
+

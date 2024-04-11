@@ -1,0 +1,128 @@
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\appsettings.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.staticwebassets.runtime.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.exe
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.deps.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.runtimeconfig.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.pdb
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.csproj.AssemblyReference.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.AssemblyInfoInputs.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.AssemblyInfo.cs
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.csproj.CoreCompileInputs.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCore.Courses.Section15.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCore.Courses.Section15.props
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCore.Courses.Section15.props
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCore.Courses.Section15.props
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\scopedcss\bundle\AspNetCore.Courses.Section15.styles.css
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\refint\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.pdb
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.genruntimeconfig.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\ref\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.BusinessLogic.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.Infrastructures.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.Infrastructures.pdb
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.BusinessLogic.pdb
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.csproj.CopyComplete
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspnetCore.Courses.Section15.Repositories.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspnetCore.Courses.Section15.Repositories.pdb
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.RazorAssemblyInfo.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section15\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.RazorAssemblyInfo.cs
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\appsettings.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.staticwebassets.runtime.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.exe
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.deps.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.runtimeconfig.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.pdb
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.BusinessLogic.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.Infrastructures.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.BusinessLogic.pdb
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\AspNetCore.Courses.Section15.Infrastructures.pdb
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.csproj.AssemblyReference.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.AssemblyInfoInputs.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.AssemblyInfo.cs
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.csproj.CoreCompileInputs.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.RazorAssemblyInfo.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.RazorAssemblyInfo.cs
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets\msbuild.AspNetCore.Courses.Section15.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets\msbuild.build.AspNetCore.Courses.Section15.props
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspNetCore.Courses.Section15.props
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspNetCore.Courses.Section15.props
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\scopedcss\bundle\AspNetCore.Courses.Section15.styles.css
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.csproj.CopyComplete
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\refint\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.pdb
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.genruntimeconfig.cache
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\ref\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mhounnande\Desktop\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.csproj.AssemblyReference.cache
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.AssemblyInfoInputs.cache
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.AssemblyInfo.cs
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.csproj.CoreCompileInputs.cache
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.RazorAssemblyInfo.cache
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.RazorAssemblyInfo.cs
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\refint\AspNetCore.Courses.Section15.dll
+C:\Users\mhounnande\OneDrive - Tikehau Capital\Bureau\DevOps.NET\Courses\BackEndCourses\AspNetCore.Courses.Section18\AspNetCore.Courses.Section15\obj\Debug\net7.0\AspNetCore.Courses.Section15.pdb

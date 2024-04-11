@@ -1,0 +1,71 @@
+﻿@model IEnumerable<PersonResponseDTO> 
+
+<form asp-controller="Persons" asp-action="Index" method="get"> 
+<div>
+	<h1> Persons information </h1>
+	<a asp-controller="Persons" asp-action="Create"> Create Person </a>
+</div>
+
+<div class="box flex"> 
+	<div class="flex-1"> 
+		<select class="form-input" name="searchBy">
+		@{
+					foreach (var searchOption in ViewBag.InputsOptions)
+					{
+						if(searchOption.Value ==  ViewBag.CurrentSearchBy)
+						{
+							<option value="@searchOption.Key" selected="selected"> @searchOption.Value</option>
+						}
+
+						<option value="@searchOption.Key"> @searchOption.Value</option>	
+						
+					}
+			}
+		</select>
+	</div>
+
+	<div class="flex-1"> 
+		<input type="search" id="Search" class="form-input" placeholder="Search" name="searchString" value = "@ViewBag.CurrentSearchString" />
+	</div>
+	<div> 
+		<button class="button ">Search </button>
+		<a asp-controller="Persons" asp-action="Index" class="link-hover:link"> Clear all </a>
+	</div>
+</div>
+
+<div> 
+	<table class="table w-100 mt">
+		<thead>
+			<tr>
+				<th>Person Name </th>
+				<th> Email </th>
+				<th> Date of Birth </th>
+				<th> Age </th>
+				<th> Gender </th>
+				<th>Country Name </th>
+				<th> Adress </th>
+				<th> ReceiveNewLetters </th>
+			</tr>
+		</thead>
+		<tbody>
+			@{
+				foreach (PersonResponseDTO person in Model)
+				{
+				<tr>
+					 <td>@person.PersonName</td>
+					  <td>@person.Email</td>
+					 <td>@person.DateOfBirth?.ToString("dd mm yyyy")</td>
+					 <td>@person.Age</td>
+					 <td>@person.Gender</td>
+					 <td>@person.CountryName</td>
+				     <td>@person.Address</td>
+					 <td>@person.ReceiveNewLetters</td>
+				</tr>
+				}
+
+			}
+       </tbody>
+	</table>
+</div>
+
+</form>

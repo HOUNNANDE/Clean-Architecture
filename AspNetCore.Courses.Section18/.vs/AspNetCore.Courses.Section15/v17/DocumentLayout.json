@@ -1,0 +1,935 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\aspnetcore.courses.section15.infrastructures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\aspnetcore.courses.section15.infrastructures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\aspnetcore.courses.section15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\aspnetcore.courses.section15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\aspnetcore.courses.section15.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\aspnetcore.courses.section15.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\unitofwork\\explainunitofwork.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\unitofwork\\explainunitofwork.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\dal\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\dal\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\dal\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\dal\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\personservices\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\personservices\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\aspnetcore.courses.section15.infrastructures.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\aspnetcore.courses.section15.infrastructures.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\migrations\\20230722190503_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\migrations\\20230722190503_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\persondb.persistence\\persondatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\persondb.persistence\\persondatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\persondb.persistence\\ipersondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\persondb.persistence\\ipersondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\countrydb.persistence\\countrydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\countrydb.persistence\\countrydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\common\\deserializejsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\common\\deserializejsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\dal\\repositories\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\dal\\repositories\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\dal\\repositories\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\dal\\repositories\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\dto\\personresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\dto\\personresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\common\\readjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\common\\readjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\common\\jsonconveteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\common\\jsonconveteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\dto\\personrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\dto\\personrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\personservices\\ipersonservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\personservices\\ipersonservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\dto\\personupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\dto\\personupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\validation\\personvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\validation\\personvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\countryservices\\countryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\countryservices\\countryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\countryservices\\icountryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\countryservices\\icountryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\migrations\\20230722192803_fixedstringformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\migrations\\20230722192803_fixedstringformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\migrations\\personsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\migrations\\personsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonsDataBase/True/SqlTable/dbo.Persons.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\aspnetcore.courses.section15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\aspnetcore.courses.section15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\commons\\personresponsesmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\commons\\personresponsesmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\commons\\personrequestsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\commons\\personrequestsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\countrydb.persistence\\icountrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EA85A-CBBB-47A3-B993-5F93A9CBECF4}|AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj|solutionrelative:aspnetcore.courses.section15.infrastructures\\dal\\databasecontexts\\countrydb.persistence\\icountrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\validation\\personvalidationerros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\validation\\personvalidationerros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\dto\\countryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\dto\\countryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\commons\\countryrequestsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\commons\\countryrequestsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\dto\\countryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\dto\\countryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\enum\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\enum\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\validation\\updatepersonvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\validation\\updatepersonvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\businesscalculation\\personbusinesscalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\businesscalculation\\personbusinesscalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\validation\\countryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\validation\\countryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\commons\\countryresponsesmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\countrybusinesslogic\\commons\\countryresponsesmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\businesscalculation\\ipersonbusinesscalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\businesscalculation\\ipersonbusinesscalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section15\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69CA5987-737A-41EE-BB13-9D0641651F46}|AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj|solutionrelative:aspnetcore.courses.section15\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|c:\\users\\utilisateur\\desktop\\save\\marius pc\\bureau\\from old pc\\devops.net\\courses\\backendcourses\\aspnetcore.courses.section18\\aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\enum\\sortoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A824943F-8264-4B40-974E-BD36B998E8B8}|AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj|solutionrelative:aspnetcore.courses.section5.businesslogic\\personbusinesslogic\\enum\\sortoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 386,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 39,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "explainUnitOfWork.txt",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\UnitOfWork\\explainUnitOfWork.txt",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\UnitOfWork\\explainUnitOfWork.txt",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\UnitOfWork\\explainUnitOfWork.txt",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\UnitOfWork\\explainUnitOfWork.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-11T22:34:00.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AspNetCore.Courses.Section15.BusinessLogic",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\AspNetCore.Courses.Section15.BusinessLogic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T21:20:40.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AspNetCore.Courses.Section15.Infrastructures",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T22:20:49.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Microsoft.Managed.Core.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowOoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2023-07-24T15:13:17.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AspNetCore.Courses.Section15.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T21:20:23.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CountryServices.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\CountryServices\\CountryServices.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\CountryServices\\CountryServices.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\CountryServices\\CountryServices.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\CountryServices\\CountryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.Persons [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonsDataBase/True/SqlTable/dbo.Persons.sql",
+              "ToolTip": "dbo.Persons [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2023-07-22T19:44:03.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PersonsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Migrations\\PersonsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\Migrations\\PersonsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Migrations\\PersonsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\Migrations\\PersonsDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20230722192803_FixedStringformat.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Migrations\\20230722192803_FixedStringformat.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\Migrations\\20230722192803_FixedStringformat.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Migrations\\20230722192803_FixedStringformat.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\Migrations\\20230722192803_FixedStringformat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20230722190503_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Migrations\\20230722190503_Initial.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\Migrations\\20230722190503_Initial.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Migrations\\20230722190503_Initial.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\Migrations\\20230722190503_Initial.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwFMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AspNetCore.Courses.Section15.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\AspNetCore.Courses.Section15.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T21:20:23.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PersonValidationErros.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\PersonValidationErros.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\PersonValidationErros.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\PersonValidationErros.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\PersonValidationErros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\Persons\\Create.cshtml",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\Views\\Persons\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\Persons\\Create.cshtml",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\Views\\Persons\\Create.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAlwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:20:23.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CountryResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\DTO\\CountryResponseDTO.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\DTO\\CountryResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\DTO\\CountryResponseDTO.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\DTO\\CountryResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CountryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\DTO\\CountryRequestDTO.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\DTO\\CountryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\DTO\\CountryRequestDTO.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\DTO\\CountryRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\Controllers\\PersonsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonsDbContext.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonsDbContext.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonsDbContext.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonsDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeserializeJsonfile.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Common\\DeserializeJsonfile.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\Common\\DeserializeJsonfile.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Common\\DeserializeJsonfile.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\Common\\DeserializeJsonfile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountryDataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\CountryDb.Persistence\\CountryDataBaseContext.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\CountryDb.Persistence\\CountryDataBaseContext.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\CountryDb.Persistence\\CountryDataBaseContext.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\CountryDb.Persistence\\CountryDataBaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICountryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\CountryDb.Persistence\\ICountryDbContext.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\CountryDb.Persistence\\ICountryDbContext.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\CountryDb.Persistence\\ICountryDbContext.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\CountryDb.Persistence\\ICountryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JsonConveterOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Common\\JsonConveterOptions.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\Common\\JsonConveterOptions.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Common\\JsonConveterOptions.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\Common\\JsonConveterOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IPersonBusinessCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\BusinessCalculation\\IPersonBusinessCalculation.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\BusinessCalculation\\IPersonBusinessCalculation.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\BusinessCalculation\\IPersonBusinessCalculation.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\BusinessCalculation\\IPersonBusinessCalculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonDataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonDb.Persistence\\PersonDataBaseContext.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonDb.Persistence\\PersonDataBaseContext.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonDb.Persistence\\PersonDataBaseContext.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonDb.Persistence\\PersonDataBaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReadJsonfile.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Common\\ReadJsonfile.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\Common\\ReadJsonfile.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\Common\\ReadJsonfile.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\Common\\ReadJsonfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPersonDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonDb.Persistence\\IPersonDbContext.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonDb.Persistence\\IPersonDbContext.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonDb.Persistence\\IPersonDbContext.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\DatabaseContexts\\PersonDb.Persistence\\IPersonDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonServices.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\PersonServices\\PersonServices.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\PersonServices\\PersonServices.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\PersonServices\\PersonServices.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\PersonServices\\PersonServices.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAwwOwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PersonBusinessCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\BusinessCalculation\\PersonBusinessCalculation.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\BusinessCalculation\\PersonBusinessCalculation.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\BusinessCalculation\\PersonBusinessCalculation.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\BusinessCalculation\\PersonBusinessCalculation.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Program.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwDQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:20:23.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\appsettings.Development.json",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T21:20:23.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\appsettings.json",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\appsettings.json",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T21:20:23.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\CountryRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\Interfaces\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\Interfaces\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\Interfaces\\IPersonRepository.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\Interfaces\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\DAL\\Repositories\\PersonRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AspNetCore.Courses.Section15.Infrastructures.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj",
+              "RelativeToolTip": "AspNetCore.Courses.Section15.Infrastructures\\AspNetCore.Courses.Section15.Infrastructures.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T21:20:23.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CountryValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Validation\\CountryValidation.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Validation\\CountryValidation.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Validation\\CountryValidation.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Validation\\CountryValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CountryResponsesMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Commons\\CountryResponsesMapper.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Commons\\CountryResponsesMapper.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Commons\\CountryResponsesMapper.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Commons\\CountryResponsesMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPersonServices.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\PersonServices\\IPersonServices.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\PersonServices\\IPersonServices.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\PersonServices\\IPersonServices.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\PersonServices\\IPersonServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdatePersonValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\UpdatePersonValidation.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\UpdatePersonValidation.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\UpdatePersonValidation.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\UpdatePersonValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CountryRequestsMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Commons\\CountryRequestsMapper.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Commons\\CountryRequestsMapper.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Commons\\CountryRequestsMapper.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\Commons\\CountryRequestsMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICountryServices.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\CountryServices\\ICountryServices.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\CountryServices\\ICountryServices.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\CountryServices\\ICountryServices.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\CountryBusinessLogic\\CountryServices\\ICountryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonRequestDTO.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonRequestDTO.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAlwCQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-11T21:20:23.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-11T21:20:23.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:20:23.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:20:23.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section15\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section15\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspNetCore.Courses.Section15\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:20:23.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\PersonValidation.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\PersonValidation.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\PersonValidation.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Validation\\PersonValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PersonResponsesMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Commons\\PersonResponsesMapper.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Commons\\PersonResponsesMapper.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Commons\\PersonResponsesMapper.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Commons\\PersonResponsesMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonUpdateRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonUpdateRequestDTO.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonUpdateRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonUpdateRequestDTO.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonUpdateRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PersonRequestsMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Commons\\PersonRequestsMapper.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Commons\\PersonRequestsMapper.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Commons\\PersonRequestsMapper.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Commons\\PersonRequestsMapper.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GenderOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Enum\\GenderOptions.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Enum\\GenderOptions.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Enum\\GenderOptions.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Enum\\GenderOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonResponseDTO.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonResponseDTO.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\DTO\\PersonResponseDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SortOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Enum\\SortOptions.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Enum\\SortOptions.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\Save\\Marius PC\\Bureau\\From old pc\\DevOps.NET\\Courses\\BackEndCourses\\AspNetCore.Courses.Section18\\AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Enum\\SortOptions.cs",
+              "RelativeToolTip": "AspNetCore.Courses.Section5.BusinessLogic\\PersonBusinessLogic\\Enum\\SortOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:23.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
